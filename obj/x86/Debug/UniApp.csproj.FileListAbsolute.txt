@@ -1,0 +1,2 @@
+C:\Users\Dominus\Downloads\Docs-master\Docs-master\aspnetcore\data\ef-mvc\intro\samples\cu-final\obj\x86\Debug\UniApp.csprojResolveAssemblyReference.cache
+C:\Users\Dominus\Downloads\Docs-master\Docs-master\aspnetcore\data\ef-mvc\intro\samples\cu-final\obj\x86\Debug\UniApp.csproj.CoreCompileInputs.cache
